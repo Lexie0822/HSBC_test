@@ -1,0 +1,27 @@
+{
+  "features": [
+    "square_footage",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "lot_size",
+    "distance_to_city_center",
+    "school_rating"
+  ],
+  "coefficients": {
+    "square_footage": -74386.90070750573,
+    "bedrooms": -5764.347493572379,
+    "bathrooms": 718.9627214285641,
+    "year_built": 22387.22011424058,
+    "lot_size": 78564.09371911857,
+    "distance_to_city_center": 37930.13162703539,
+    "school_rating": 20169.27154375723
+  },
+  "intercept": 270374.99999999994,
+  "metrics": {
+    "r2": 0.9811236825880004,
+    "mae": 7916.19806209022,
+    "mse": 105617714.99949059,
+    "rmse": 10277.047971061076
+  }
+}
