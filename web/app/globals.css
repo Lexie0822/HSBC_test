@@ -1,0 +1,8 @@
+/* Global styles placeholder.  In a real project this file would import Tailwind's
+   base, components and utilities via `@tailwind` directives and define any custom
+   styles. */
+
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+}
